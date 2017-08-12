@@ -1,0 +1,44 @@
+body {
+  background-color: #F4D350;
+}
+ul {
+  list-style-type: none;
+}
+#daburger {
+  padding-top: 15px;
+}
+#title {
+  color: maroon;
+}
+#notEaten span, #notEaten form {
+  float: right;
+}
+#notEaten span {
+  background-color: #FFF;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 6px;
+  padding: 10px 5px;
+  font-size: 7px;
+  border: 1px solid gray;
+}
+#notEaten li {
+  clear: both;
+}
+#notEaten button {
+  border-radius: 3px;
+  font-size: 8px;
+  background-color: #DDD;
+  border: 1px solid #555;
+  margin-left: 15px;
+}
+
+#eaten li {
+  background-color: #DDD;
+  color: #AAA;
+  width: 250px;
+  margin-bottom: 6px;
+  padding: 3px 5px;
+  font-size: 7px;
+  border: 1px solid gray;
+}
