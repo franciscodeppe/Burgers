@@ -1,2 +1,2 @@
 # burger
-An app that stores your favorite 'bucket-list' burgers, and indicates whether or not you've crossed them off your list.
+An app that stores your favorite burgers and keeps track if you've eaten them or not.
