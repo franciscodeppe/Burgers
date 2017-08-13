@@ -20,5 +20,5 @@ let routes = require('./controllers/burgers_controller.js');
 app.use('/', routes);
 
 app.listen(PORT, function() {
-  console.log('Connection Successful');
+  console.log('Connected');
 });
